@@ -111,6 +111,15 @@
     },
     {
       "id": "11"
+    },
+    {
+      "name": "Sam ",
+      "species": "Human",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
